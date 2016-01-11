@@ -54,15 +54,15 @@ msgstr "Parlaklığı ayarla"
 
 #: Settings.ui.h:2
 msgid "Color"
-msgstr ""
+msgstr "Renk"
 
 #: Settings.ui.h:3
 msgid "Border color"
-msgstr ""
+msgstr "Kenar rengi"
 
 #: Settings.ui.h:4
 msgid "Border width"
-msgstr ""
+msgstr "Kenar genişliği"
 
 #: Settings.ui.h:5
 msgid "Show the dock on"
